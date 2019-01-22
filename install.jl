@@ -19,4 +19,6 @@ Pkg.add("SCS")
 Pkg.add("AmplNLWriter")
 # Pkg.add("CoinOptServices")
 
+Pkg.add("JSON")
+
 Pkg.update()
