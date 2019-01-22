@@ -1,4 +1,4 @@
 all:
 
 run:
-	julia ./KnapsackSolver.jl
+	julia ./bftFailuresAttacks.jl
